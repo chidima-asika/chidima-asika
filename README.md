@@ -11,7 +11,7 @@
 
 ## Skills & Expertise
 - **Data Tools:** Python, MS Excel, Tableau, Tableau Prep, Splunk, Alteryx.
-- **Tech Stack:** Workday, Git, GitHub, Linux, Docker, Cloud Technologies.
+- **Tech Stack:** Git, GitHub, Linux, Docker, Cloud Technologies.
 - **Focus:** Data Analytics, Large Datasets, CI/CD Pipelines.
 
 ## Current Focus
@@ -23,6 +23,7 @@
 ### BookManager
 A console-based book management system for avid readers. Features include tracking books, writing reviews, joining book clubs, and following users. Unique feature: users can become librarians with a secret passphrase.
 **Technologies Used:** Python, MySQL
+**Topic(s):** Database Management
 
 ## Connect with Me
 **LinkedIn:** [linkedin.com/in/Chidima](https://linkedin.com/in/Chidima)
