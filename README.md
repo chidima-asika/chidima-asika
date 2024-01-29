@@ -25,5 +25,10 @@ A console-based book management system for avid readers. Features include tracki
 **Technologies Used:** Python, MySQL
 **Topic(s):** Database Management
 
+### WinWithUs
+Description
+**Technologies Used:** Python(Pandas)
+**Topic(s):** ML Models, Data Modeling, Big Data
+
 ## Connect with Me
 **LinkedIn:** [linkedin.com/in/Chidima](https://linkedin.com/in/Chidima)
